@@ -21,6 +21,9 @@
     "url": "https://github.com/Greggry/read-js/issues"
   },
   "homepage": "https://github.com/Greggry/read-js#readme",
+  "bin": {
+    "read-js": "./read.js"
+  },
   "dependencies": {
     "@greggry/ask": "^2.0.0"
   }
