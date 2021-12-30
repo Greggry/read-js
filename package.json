@@ -1,0 +1,19 @@
+{
+  "name": "@greggry/read",
+  "version": "0.1.0",
+  "description": "a script for reading input in festival tts",
+  "main": "read.js",
+  "scripts": {
+    "test": "node read.js"
+  },
+  "keywords": [
+    "tts",
+    "festival",
+    "read"
+  ],
+  "author": "greggry",
+  "license": "ISC",
+  "dependencies": {
+    "@greggry/ask": "^2.0.0"
+  }
+}
