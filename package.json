@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node read.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greggry/read-js.git"
+  },
   "keywords": [
     "tts",
     "festival",
@@ -13,6 +17,10 @@
   ],
   "author": "greggry",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greggry/read-js/issues"
+  },
+  "homepage": "https://github.com/Greggry/read-js#readme",
   "dependencies": {
     "@greggry/ask": "^2.0.0"
   }
